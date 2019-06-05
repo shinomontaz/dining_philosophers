@@ -1,0 +1,4 @@
+[package]
+    name="dining_philisophers"
+    version="0.0.1"
+    authors=["drybakov <shinomontaz@gmail.com>"]
